@@ -3,7 +3,7 @@ module github.com/aellwein/cert-backup-operator
 go 1.24.1
 
 require (
-	github.com/cert-manager/cert-manager v1.18.1
+	github.com/cert-manager/cert-manager v1.18.2
 	k8s.io/apimachinery v0.33.2
 	k8s.io/client-go v0.33.2
 )
