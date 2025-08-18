@@ -4,7 +4,7 @@ go 1.24.6
 
 require (
 	github.com/cert-manager/cert-manager v1.18.2
-	k8s.io/apimachinery v0.33.3
+	k8s.io/apimachinery v0.33.4
 	k8s.io/client-go v0.33.3
 )
 
