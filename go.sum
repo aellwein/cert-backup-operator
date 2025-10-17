@@ -1,5 +1,5 @@
-github.com/cert-manager/cert-manager v1.19.0 h1:pPKtK06zPriliwq7B12xa7DGKbc4SvnfOjE0BXaAspk=
-github.com/cert-manager/cert-manager v1.19.0/go.mod h1:7VBp/ihp5Xgz/ZJuGy1fNIWbDouQKBonvEyWoJLuhmA=
+github.com/cert-manager/cert-manager v1.19.1 h1:Txh8L/nLWTDcb7ZnXuXbTe15BxQnLbLirXmbNk0fGgY=
+github.com/cert-manager/cert-manager v1.19.1/go.mod h1:8Ps1VXCQRGKT8zNvLQlhDK1gFKWmYKdIPQFmvTS2JeA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=
