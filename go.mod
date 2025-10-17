@@ -1,6 +1,6 @@
 module github.com/aellwein/cert-backup-operator
 
-go 1.25.2
+go 1.25.3
 
 require (
 	github.com/cert-manager/cert-manager v1.19.0
